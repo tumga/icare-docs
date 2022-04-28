@@ -9,12 +9,12 @@ const config = {
   title: 'iCare',
   // tagline: 'We Care',
   url: "https://udsm-dhis2-lab.github.io",
-  baseUrl: "/icare-docs/",
+  baseUrl: "/icare/",
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'UDSM-DHIS2-LAB', // Usually your GitHub org/user name.
-  projectName: 'iCARE', // Usually your repo name.
+  projectName: 'icare-docs', // Usually your repo name.
 
   presets: [
     [
