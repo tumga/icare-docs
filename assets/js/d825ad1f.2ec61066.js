@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkicare_user_manual=self.webpackChunkicare_user_manual||[]).push([[2346],{2739:function(a){a.exports=JSON.parse('{"allTagsPath":"/icare/blog/tags","slug":"/icare/blog/tags/docusaurus","name":"docusaurus","count":2,"permalink":"/icare/blog/tags/docusaurus"}')}}]);

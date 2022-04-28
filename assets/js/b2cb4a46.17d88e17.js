@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkicare_user_manual=self.webpackChunkicare_user_manual||[]).push([[5209],{3447:function(e){e.exports=JSON.parse('{"permalink":"/icare-docs/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
