@@ -4,14 +4,14 @@
         <title>iCare Blog</title>
         <link>https://udsm-dhis2-lab.github.io/icare-docs/blog</link>
         <description>iCare Blog</description>
-        <lastBuildDate>Thu, 28 Apr 2022 11:28:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 11:32:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[First Blog Post]]></title>
             <link>https://udsm-dhis2-lab.github.io/icare-docs/blog/first-blog-post</link>
             <guid>first-blog-post</guid>
-            <pubDate>Thu, 28 Apr 2022 11:28:47 GMT</pubDate>
+            <pubDate>Thu, 28 Apr 2022 11:32:35 GMT</pubDate>
             <description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></description>
             <content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content:encoded>
         </item>
@@ -19,7 +19,7 @@
             <title><![CDATA[Long Blog Post]]></title>
             <link>https://udsm-dhis2-lab.github.io/icare-docs/blog/long-blog-post</link>
             <guid>long-blog-post</guid>
-            <pubDate>Thu, 28 Apr 2022 11:28:47 GMT</pubDate>
+            <pubDate>Thu, 28 Apr 2022 11:32:35 GMT</pubDate>
             <description><![CDATA[This is the summary of a very long blog post,]]></description>
             <content:encoded><![CDATA[<p>This is the summary of a very long blog post,</p><p>Use a <code>&lt;!--</code> <code>truncate</code> <code>--&gt;</code> comment to limit blog post size in the list view.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content:encoded>
         </item>
@@ -27,7 +27,7 @@
             <title><![CDATA[MDX Blog Post]]></title>
             <link>https://udsm-dhis2-lab.github.io/icare-docs/blog/mdx-blog-post</link>
             <guid>mdx-blog-post</guid>
-            <pubDate>Thu, 28 Apr 2022 11:28:47 GMT</pubDate>
+            <pubDate>Thu, 28 Apr 2022 11:32:35 GMT</pubDate>
             <description><![CDATA[Blog posts support Docusaurus Markdown features, such as MDX.]]></description>
             <content:encoded><![CDATA[<p>Blog posts support <a href="https://docusaurus.io/docs/markdown-features">Docusaurus Markdown features</a>, such as <a href="https://mdxjs.com/">MDX</a>.</p><p>:::tip</p><p>Use the power of React to create interactive blog posts.</p><pre><code class="language-js">&lt;button onClick={() =&gt; alert(&#x27;button clicked!&#x27;)}&gt;Click me!&lt;/button&gt;
 </code></pre><button>Click me!</button><p>:::</p>]]></content:encoded>
@@ -36,7 +36,7 @@
             <title><![CDATA[Welcome]]></title>
             <link>https://udsm-dhis2-lab.github.io/icare-docs/blog/welcome</link>
             <guid>welcome</guid>
-            <pubDate>Thu, 28 Apr 2022 11:28:47 GMT</pubDate>
+            <pubDate>Thu, 28 Apr 2022 11:32:35 GMT</pubDate>
             <description><![CDATA[iCare EMR & Hospital Services System]]></description>
             <content:encoded><![CDATA[<h2>iCare EMR &amp; Hospital Services System</h2><p>:::info</p><h3>Introduction</h3><p>iCare is an Electronic Medical Recording and Hospital Services System started October 2020 aiming at addressing common challenges encountered when UDSM   DHIS2 project was providing support to the Ministry of Health on various areas mainly on two areas, integrations between existing hospital systems (Interoperability) and HMIS Data warehouse, also on improving features on the hospital system used by referral hospitals in Tanzania.
 Technology
