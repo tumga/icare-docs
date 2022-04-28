@@ -9,7 +9,7 @@ const config = {
   title: 'iCare',
   // tagline: 'We Care',
   url: "https://udsm-dhis2-lab.github.io",
-  baseUrl: "/icare/",
+  baseUrl: "/icare-docs/",
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
