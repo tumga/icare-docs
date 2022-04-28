@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkicare_user_manual=self.webpackChunkicare_user_manual||[]).push([[5557],{7196:function(a){a.exports=JSON.parse('{"allTagsPath":"/icare/blog/tags","slug":"/icare/blog/tags/icare","name":"icare","count":2,"permalink":"/icare/blog/tags/icare"}')}}]);
