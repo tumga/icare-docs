@@ -6,7 +6,7 @@ title: Login To iCARE
 # Login To iCARE
 ---
 
-In Order to Access iCARE  need to be provided with Username and Password
+To Access iCARE type in your "Username" and "Password" then "Login"
 
  ![img alt](/img/login1.png)
  
